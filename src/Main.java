@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("dan is the man");
         for (int i = 0; i < 5; i++) {
-            System.out.println("dangod");
+            System.out.println("dangodgod");
         }
 
 
